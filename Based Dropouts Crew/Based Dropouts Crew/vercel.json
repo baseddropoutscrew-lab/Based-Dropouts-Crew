@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "buildCommand": "echo 'Static site - no build needed'",
+  "devCommand": "echo 'Use local server for development'",
+  "installCommand": "echo 'No dependencies to install'",
+  "framework": null,
+  "regions": ["iad1"],
+  "functions": {}
+}
